@@ -1,2 +1,2 @@
 # LLM-CookBook
-How to use the best open source llm tools !
+Learn how to use the best open source llm tools and eyes open to see the world.
